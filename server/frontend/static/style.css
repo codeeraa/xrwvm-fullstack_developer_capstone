@@ -28,21 +28,21 @@ img{
 }
 .details{
   font-size: 20px;
-  color: rgb(97, 64, 128);
+  color: rgb(167, 175, 88);
   padding:20px;
 }
 
 .title{
   font-size: 20px;
-  background-color: rgb(97, 64, 128);
-  color: white;
+  background-color: rgb(167, 175, 88);
+  color: rgb(255, 255, 255);
   text-align: center;
   margin:20px;
   padding:5px;
 }
 
 .homepage_links{
-  color:  rgb(97, 64, 128);
+  color:  rgb(167, 175, 88);
   padding: 25%;
   font-size: larger;
   }
